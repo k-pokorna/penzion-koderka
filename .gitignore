@@ -1,7 +1,7 @@
-### Eleventy ###
+### Eleventy - ověřeno ###
 _site/
 
-### Node ###
+### Node - ověřeno ###
 node_modules/
 
 ### VisualStudioCode ###
